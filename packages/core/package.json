@@ -1,0 +1,20 @@
+{
+  "name": "@redux-blockchain/core",
+  "version": "0.1.0",
+  "description": "Redux Blockchain - the core module",
+  "typings": "./core.d.ts",
+  "author": "Brion Silva",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "peerDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/angular.git"
+  },
+  "ng-update": {
+    "packageGroup": "NG_UPDATE_PACKAGE_GROUP"
+  },
+  "sideEffects": false
+}
